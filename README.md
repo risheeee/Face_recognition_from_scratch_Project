@@ -52,8 +52,7 @@ Will upload them all soon, as they are bigger than 25 MB! so need some time to f
 
 ## 📬 Connect with Me
 - LinkedIn: [Rishee Panchal](https://www.linkedin.com/in/rishee-panchal/)
-- GitHub: [RisheePanchal](https://github.com/risheeee)
-- Email: [Your Email]
+- Email: [rishrash2712@gmail.com]
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
